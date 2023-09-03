@@ -1,3 +1,6 @@
+// str library - https://github.com/mreck/str.h
+// MIT License - Copyright (c) 2023 Mathias Reck
+
 #ifndef STR_H_
 #define STR_H_
 
